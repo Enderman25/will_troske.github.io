@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Will Troske / PhD Candidate"
 title_separator          : "-"
 name                     : &name "Will Troske"
@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Will Troske"
   pronouns         : # example: "He/Him"  
-  bio              : "Environmental Economist interested in the behavioral response behind policy"
+  bio              : "Environment and Trade Economist"
   location         : "Davis, CA"
   employer         : "University of California, Davis"
   uri              : # URL
   email            : "wtroske@ucdavis.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://are.ucdavis.edu/people/grad-students/phd/will-troske/"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/william-troske-61842b122/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
